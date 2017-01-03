@@ -22,6 +22,12 @@ Guru :
 - Username : 23111999
 - Password : duacikbar
 
+# Download
+
+New Version : https://drive.google.com/open?id=0B8Mj8B7e4uZTS0psR0hrWDZtQWc
+
+Old Version : https://play.google.com/store/apps/details?id=id.sch.smkn2cikbar.easyschedule
+
 # Server Hosting
 
 http://android-inyourhand.esy.es/api-sms/
