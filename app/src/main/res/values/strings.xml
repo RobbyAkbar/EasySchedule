@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Easy Schedule</string>
+    <string name="username">Username :</string>
+    <string name="userpassword">Password :</string>
+    <string name="hakakses">Login As :</string>
+    <string name="hint_username">Masukkan Username Anda</string>
+    <string name="hint_password">Masukkan Password Anda</string>
+    <string name="login">LOGIN</string>
+    <string name="nis">NIS</string>
+    <string name="nama">Nama Siswa</string>
+    <string name="password">Password</string>
+    <string name="signup">BUAT AKUN</string>
+    <string name="perintah_login">Sudah punya akun? Login</string>
+    <string name="perintah_signup">Belum punya akun? Daftar</string>
+
+    <string name="hint_mapel">Mata Pelajaran</string>
+    <string name="hint_tugas">Tugas</string>
+    <string name="hint_deadline">Deadline</string>
+
+    <string name="add_activity_title">Tambah Tugas</string>
+    <string name="add_activity_subtitle">Tambah tugas baru kalian</string>
+    <string name="edit_activity_title">Edit Tugas</string>
+    <string name="edit_activity_subtitle">Edit catatan tugas kalian</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="jadwalpelajaran_fragment_title">Jadwal Pelajaran</string>
+    <string name="jadwalpelajaran_fragment_subtitle">Lihat Jadwal Pelajaran</string>
+
+    <string name="jadwalmengajar_fragment_title">Jadwal Mengajar</string>
+    <string name="jadwalmengajar_fragment_subtitle">Lihat Jadwal Mengajar</string>
+
+    <string name="pengumuman_fragment_title">Pengumuman</string>
+    <string name="pengumuman_fragment_subtitle">Lihat Pengumuman Terbaru</string>
+
+    <string name="facebook_fragment_title">Facebook</string>
+    <string name="facebook_fragment_subtitle">SMK Negeri 2 Cikarang Barat</string>
+
+    <string name="twitter_fragment_title">Twitter</string>
+    <string name="twitter_fragment_subtitle">SMK Negeri 2 Cikarang Barat</string>
+
+    <string name="catatan_fragment_title">Catatan</string>
+    <string name="catatan_fragment_subtitle">Buat Catatan Tugas</string>
+
+    <string name="tentang_fragment_title">Tentang</string>
+    <string name="tentang_fragment_subtitle">Tentang Pengembang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

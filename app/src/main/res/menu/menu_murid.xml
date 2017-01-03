@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_jadwalPelajaran"
+            android:icon="@mipmap/ic_assignment"
+            android:checked="true"
+            android:title="Jadwal Pelajaran"/>
+    </group>
+    <item android:title="Informasi">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_pengumuman"
+                    android:icon="@mipmap/ic_notif"
+                    android:checkable="true"
+                    android:title="Pengumuman"/>
+                <item
+                    android:id="@+id/facebook"
+                    android:title="Facebook"
+                    android:checkable="true"
+                    android:icon="@drawable/ic_facebook"/>
+                <item
+                    android:id="@+id/twitter"
+                    android:title="Twitter"
+                    android:checkable="true"
+                    android:icon="@drawable/ic_twitter"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="Lainnya . . .">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/catatan"
+                    android:title="Catatan"
+                    android:checkable="true"
+                    android:icon="@mipmap/ic_note"/>
+                <item
+                    android:id="@+id/tentang"
+                    android:title="Tentang"
+                    android:checkable="true"
+                    android:icon="@mipmap/ic_info"/>
+                <item
+                    android:id="@+id/logout"
+                    android:title="Logout"
+                    android:checkable="false"
+                    android:icon="@mipmap/ic_logout"/>
+                <item
+                    android:id="@+id/keluar"
+                    android:title="Keluar"
+                    android:checkable="false"
+                    android:icon="@mipmap/ic_exit"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_jadwal_pelajaran">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </string-array>
+    <string-array name="subtitle_jadwal_pelajaran">
+        <item>Jadwal Pelajaran Hari Senin</item>
+        <item>Jadwal Pelajaran Hari Selasa</item>
+        <item>Jadwal Pelajaran Hari Rabu</item>
+        <item>Jadwal Pelajaran Hari Kamis</item>
+        <item>Jadwal Pelajaran Hari Jumat</item>
+        <item>Jadwal Pelajaran Hari Sabtu</item>
+    </string-array>
+    <string-array name="title_jadwal_mengajar">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </string-array>
+    <string-array name="subtitle_jadwal_mengajar">
+        <item>Jadwal Mengajar Hari Senin</item>
+        <item>Jadwal Mengajar Hari Selasa</item>
+        <item>Jadwal Mengajar Hari Rabu</item>
+        <item>Jadwal Mengajar Hari Kamis</item>
+        <item>Jadwal Mengajar Hari Jumat</item>
+        <item>Jadwal Mengajar Hari Sabtu</item>
+    </string-array>
+    <string-array name="kelas">
+        <item>X TKJ 1</item>
+        <item>X TKJ 2</item>
+        <item>X TKJ 3</item>
+        <item>X MM 1</item>
+        <item>X MM 2</item>
+        <item>X AN 1</item>
+        <item>X AN 2</item>
+        <item>X AK 1</item>
+        <item>X AK 2</item>
+        <item>X AK 3</item>
+        <item>X AK 4</item>
+        <item>X AP 1</item>
+        <item>X AP 2</item>
+        <item>X AP 3</item>
+        <item>X PM 1</item>
+        <item>X PM 2</item>
+        <item>X PM 3</item>
+        <item>XI TKJ 1</item>
+        <item>XI TKJ 2</item>
+        <item>XI MM</item>
+        <item>XI AN</item>
+        <item>XI AK 1</item>
+        <item>XI AK 2</item>
+        <item>XI AK 3</item>
+        <item>XI AP 1</item>
+        <item>XI AP 2</item>
+        <item>XI AP 3</item>
+        <item>XI PM 1</item>
+        <item>XI PM 2</item>
+        <item>XII TKJ 1</item>
+        <item>XII TKJ 2</item>
+        <item>XII MM 1</item>
+        <item>XII MM 2</item>
+        <item>XII AN</item>
+        <item>XII AK 1</item>
+        <item>XII AK 2</item>
+        <item>XII AK 3</item>
+        <item>XII AP 1</item>
+        <item>XII AP 2</item>
+        <item>XII AP 3</item>
+        <item>XII PM 1</item>
+        <item>XII PM 2</item>
+    </string-array>
+</resources>
